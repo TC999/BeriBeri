@@ -73,7 +73,7 @@
     "chokidar": "^3.6.0",
     "cross-env": "^7.0.3",
     "crx": "^5.0.1",
-    "eslint": "^9.4.0",
+    "eslint": "^9.26.0",
     "eslint-plugin-format": "^0.1.2",
     "eslint-plugin-simple-import-sort": "^12.1.0",
     "esno": "^4.7.0",
