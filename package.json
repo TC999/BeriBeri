@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@types/md5": "^2.3.5",
-    "dompurify": "^3.2.4",
+    "dompurify": "^3.3.1",
     "md5": "^2.3.0",
     "mitt": "^3.0.1",
     "overlayscrollbars": "2.7.3",
@@ -63,7 +63,7 @@
     "@iconify/vue": "^4.1.2",
     "@intlify/unplugin-vue-i18n": "^4.0.0",
     "@rollup/plugin-replace": "^5.0.7",
-    "@types/dompurify": "^3.0.5",
+    "@types/dompurify": "^3.2.0",
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.14.2",
     "@types/webextension-polyfill": "^0.10.7",
