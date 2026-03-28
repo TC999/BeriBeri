@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@types/md5": "^2.3.5",
-    "dompurify": "^3.3.1",
+    "dompurify": "^3.3.2",
     "md5": "^2.3.0",
     "mitt": "^3.0.1",
     "overlayscrollbars": "2.7.3",
